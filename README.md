@@ -1,3 +1,3 @@
 # Night time clock 
-A simple clock with an included video for white noise. I made it for a pi and a small screen.
-![alt text](demo.jpg)
+A simple clock, with support for a white noise file.
+I host this on a pi on my local network and use an old tablet to connect. 
