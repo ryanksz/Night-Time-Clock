@@ -7,3 +7,4 @@ Install apache (sudo apt-get install apache2)<br/>
 Clone this repo<br/>
 Move these files to /var/www/html<br/>
 Connect to the pi<br/>
+Download any audio file for white noise you like, name it to whitenoise.mp3 to work.<br/> 
